@@ -2101,33 +2101,6 @@
       "language": "en_us",
       "image": "https://s4.imlazy.ink:233/img/screenshots/2021-08-19_14.52.11.png",
       "gameType": "Minecraft",
-      "description": "Standard Vanilla Minecraft 26.3 Server Setup (Official) - No Mod/Plugin Support",
-      "title": "[Vanilla] Minecraft 26.3",
-      "category": "mc-vanilla",
-      "runtime": "Java 25+",
-      "hardware": "RAM 2G+",
-      "size": "59MB",
-      "remark": "Minecraft Java",
-      "targetLink": "https://piston-data.mojang.com/v1/objects/33680f5f2ac32864d6d7cf5e56a705fdb3e05f4c/server.jar",
-      "author": "Mojang Studios",
-      "dockerOptional": {
-        "image": "eclipse-temurin:25-jdk",
-        "updateCommandImage": "eclipse-temurin:25-jdk"
-      },
-      "setupInfo": {
-        "type": "minecraft/java",
-        "startCommand": "java -Xms2048M -Xmx2048M -jar server.jar nogui",
-        "stopCommand": "stop",
-        "updateCommand": "",
-        "ie": "utf-8",
-        "oe": "utf-8"
-      }
-    },
-    {
-      "platform": "ALL",
-      "language": "en_us",
-      "image": "https://s4.imlazy.ink:233/img/screenshots/2021-08-19_14.52.11.png",
-      "gameType": "Minecraft",
       "description": "Standard Vanilla Minecraft 26.2 Server Setup (Official) - No Mod/Plugin Support",
       "title": "[Vanilla] Minecraft 26.2",
       "category": "mc-vanilla",
