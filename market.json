@@ -1406,7 +1406,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.23/forge-1.20.1-47.4.23-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.26/forge-1.20.1-47.4.26-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:17-jdk",
@@ -1416,7 +1416,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.20.1-47.4.23-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.20.1-47.4.26-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1433,7 +1433,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.23/forge-1.20.1-47.4.23-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.26/forge-1.20.1-47.4.26-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:17-jdk",
@@ -1443,7 +1443,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.20.1-47.4.23-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.20.1-47.4.26-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1460,7 +1460,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.42-beta/neoforge-26.3.0.42-beta-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.43-beta/neoforge-26.3.0.43-beta-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1470,7 +1470,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.42-beta-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.43-beta-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1487,7 +1487,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.42-beta/neoforge-26.3.0.42-beta-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.43-beta/neoforge-26.3.0.43-beta-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1497,7 +1497,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.42-beta-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.43-beta-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1568,7 +1568,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.112/neoforge-26.1.2.112-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.114/neoforge-26.1.2.114-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1578,7 +1578,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.1.2.112-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.1.2.114-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1595,7 +1595,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.112/neoforge-26.1.2.112-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.114/neoforge-26.1.2.114-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1605,7 +1605,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.1.2.112-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.1.2.114-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
