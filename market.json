@@ -542,7 +542,7 @@
       "hardware": "RAM 4G+",
       "size": "52MB",
       "remark": "Minecraft Paper",
-      "targetLink": "https://fill-data.papermc.io/v1/objects/429f5748552d6ad7c1405015e9513b47679e9ff598fb17fe664875e705664758/paper-26.3-142.jar",
+      "targetLink": "https://fill-data.papermc.io/v1/objects/32cf4a93545e218525bc4536b017c6b5d5085d27d449d64266a6b23ba4d0cbb9/paper-26.3-143.jar",
       "author": "papermc.io",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -550,7 +550,7 @@
       },
       "setupInfo": {
         "type": "minecraft/java/paper",
-        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-142.jar nogui",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-143.jar nogui",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
@@ -1460,7 +1460,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.40-beta/neoforge-26.3.0.40-beta-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.42-beta/neoforge-26.3.0.42-beta-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1470,7 +1470,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.40-beta-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.42-beta-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1487,7 +1487,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.40-beta/neoforge-26.3.0.40-beta-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.42-beta/neoforge-26.3.0.42-beta-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1497,7 +1497,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.40-beta-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.42-beta-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
