@@ -542,7 +542,7 @@
       "hardware": "RAM 4G+",
       "size": "52MB",
       "remark": "Minecraft Paper",
-      "targetLink": "https://fill-data.papermc.io/v1/objects/32cf4a93545e218525bc4536b017c6b5d5085d27d449d64266a6b23ba4d0cbb9/paper-26.3-143.jar",
+      "targetLink": "https://fill-data.papermc.io/v1/objects/64bc3219f7ee2a23ad79690c911bfc35767b2ce7383c78aa191980f7e383426a/paper-26.3-145.jar",
       "author": "papermc.io",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -550,7 +550,7 @@
       },
       "setupInfo": {
         "type": "minecraft/java/paper",
-        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-143.jar nogui",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-145.jar nogui",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
