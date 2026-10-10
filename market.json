@@ -756,9 +756,9 @@
       "category": "mc-purpur",
       "runtime": "Java 25+",
       "hardware": "RAM 4G+",
-      "size": "54MB",
+      "size": "55MB",
       "remark": "Minecraft Purpur",
-      "targetLink": "https://api.purpurmc.org/v2/purpur/26.3/2646/download?file=purpur-26.3-2646.jar",
+      "targetLink": "https://api.purpurmc.org/v2/purpur/26.3/2647/download?file=purpur-26.3-2647.jar",
       "author": "purpurmc.org",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
