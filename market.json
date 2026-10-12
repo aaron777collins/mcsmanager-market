@@ -542,7 +542,7 @@
       "hardware": "RAM 4G+",
       "size": "53MB",
       "remark": "Minecraft Paper",
-      "targetLink": "https://fill-data.papermc.io/v1/objects/580c266b6526bb34752e9c2c274be025f763af1ce5b3fa662fa2b3006f966c13/paper-26.3-177.jar",
+      "targetLink": "https://fill-data.papermc.io/v1/objects/5dd0c8fb20a96eb7c98f3c4b1c890e99ef6db56fd689a2cf06975a3471fda757/paper-26.3-178.jar",
       "author": "papermc.io",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -550,7 +550,7 @@
       },
       "setupInfo": {
         "type": "minecraft/java/paper",
-        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-177.jar nogui",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-178.jar nogui",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
@@ -974,7 +974,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.10/forge-26.3-66.0.10-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.11/forge-26.3-66.0.11-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -984,7 +984,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.3-66.0.10-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.3-66.0.11-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1001,7 +1001,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.10/forge-26.3-66.0.10-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.3-66.0.11/forge-26.3-66.0.11-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1011,7 +1011,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.3-66.0.10-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.3-66.0.11-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1028,7 +1028,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.3/forge-26.2-65.1.3-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.4/forge-26.2-65.1.4-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1038,7 +1038,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.2-65.1.3-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.2-65.1.4-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1055,7 +1055,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.3/forge-26.2-65.1.3-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.2-65.1.4/forge-26.2-65.1.4-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1065,7 +1065,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.2-65.1.3-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.2-65.1.4-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1082,7 +1082,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.3/forge-26.1.2-64.1.3-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.4/forge-26.1.2-64.1.4-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1092,7 +1092,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.1.2-64.1.3-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.1.2-64.1.4-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1109,7 +1109,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.3/forge-26.1.2-64.1.3-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/26.1.2-64.1.4/forge-26.1.2-64.1.4-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1119,7 +1119,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-26.1.2-64.1.3-installer.jar --installServer",
+        "updateCommand": "java -jar forge-26.1.2-64.1.4-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1136,7 +1136,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.11-61.2.1/forge-1.21.11-61.2.1-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.11-61.2.3/forge-1.21.11-61.2.3-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:21-jdk",
@@ -1146,7 +1146,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.21.11-61.2.1-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.21.11-61.2.3-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1163,7 +1163,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.11-61.2.1/forge-1.21.11-61.2.1-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.11-61.2.3/forge-1.21.11-61.2.3-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:21-jdk",
@@ -1173,7 +1173,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.21.11-61.2.1-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.21.11-61.2.3-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1190,7 +1190,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.15/forge-1.21.10-60.1.15-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.17/forge-1.21.10-60.1.17-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:21-jdk",
@@ -1200,7 +1200,7 @@
         "type": "minecraft/java/forge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.21.10-60.1.15-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.21.10-60.1.17-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1217,7 +1217,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft Forge",
-      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.15/forge-1.21.10-60.1.15-installer.jar",
+      "targetLink": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.10-60.1.17/forge-1.21.10-60.1.17-installer.jar",
       "author": "minecraftforge.net",
       "dockerOptional": {
         "image": "eclipse-temurin:21-jdk",
@@ -1227,7 +1227,7 @@
         "type": "minecraft/java/forge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar forge-1.21.10-60.1.15-installer.jar --installServer",
+        "updateCommand": "java -jar forge-1.21.10-60.1.17-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
