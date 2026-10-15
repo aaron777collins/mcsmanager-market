@@ -542,7 +542,7 @@
       "hardware": "RAM 4G+",
       "size": "53MB",
       "remark": "Minecraft Paper",
-      "targetLink": "https://fill-data.papermc.io/v1/objects/229e6cec981e2520c36a1ef4a29794d202ac56f20a0e012a6fda47efc15ff1b6/paper-26.3-192.jar",
+      "targetLink": "https://fill-data.papermc.io/v1/objects/5fac0b6937b7aecea1b5b40e6a992f7b0802e4271413be35a6913d30df960784/paper-26.3-194.jar",
       "author": "papermc.io",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -550,7 +550,7 @@
       },
       "setupInfo": {
         "type": "minecraft/java/paper",
-        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-192.jar nogui",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-194.jar nogui",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
@@ -1460,7 +1460,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.83/neoforge-26.3.0.83-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.84/neoforge-26.3.0.84-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1470,7 +1470,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.83-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.84-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1487,7 +1487,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.83/neoforge-26.3.0.83-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.84/neoforge-26.3.0.84-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1497,7 +1497,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.83-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.84-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1568,7 +1568,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.121/neoforge-26.1.2.121-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.122/neoforge-26.1.2.122-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1578,7 +1578,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.1.2.121-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.1.2.122-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1595,7 +1595,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.121/neoforge-26.1.2.121-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.1.2.122/neoforge-26.1.2.122-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1605,7 +1605,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.1.2.121-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.1.2.122-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
