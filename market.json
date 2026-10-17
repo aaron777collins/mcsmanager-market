@@ -542,7 +542,7 @@
       "hardware": "RAM 4G+",
       "size": "53MB",
       "remark": "Minecraft Paper",
-      "targetLink": "https://fill-data.papermc.io/v1/objects/1b243442fc3b3cbe945628f8af7911e4be439ca8b22106fb1568ac81d5a5792b/paper-26.3-202.jar",
+      "targetLink": "https://fill-data.papermc.io/v1/objects/a0a58f532f08054ea92eb916d3edb6ed3c86429d77175317304f6e995cce9968/paper-26.3-205.jar",
       "author": "papermc.io",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -550,7 +550,7 @@
       },
       "setupInfo": {
         "type": "minecraft/java/paper",
-        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-202.jar nogui",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar paper-26.3-205.jar nogui",
         "stopCommand": "stop",
         "updateCommand": "",
         "ie": "utf-8",
@@ -1460,7 +1460,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.88/neoforge-26.3.0.88-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.89/neoforge-26.3.0.89-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1470,7 +1470,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": "sh ./run.sh",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.88-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.89-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
@@ -1487,7 +1487,7 @@
       "hardware": "RAM 8G+",
       "size": "7MB",
       "remark": "Minecraft NeoForge",
-      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.88/neoforge-26.3.0.88-installer.jar",
+      "targetLink": "https://maven.neoforged.net/releases/net/neoforged/neoforge/26.3.0.89/neoforge-26.3.0.89-installer.jar",
       "author": "neoforged.net",
       "dockerOptional": {
         "image": "eclipse-temurin:25-jdk",
@@ -1497,7 +1497,7 @@
         "type": "minecraft/java/neoforge",
         "startCommand": ".\\run.bat",
         "stopCommand": "stop",
-        "updateCommand": "java -jar neoforge-26.3.0.88-installer.jar --installServer",
+        "updateCommand": "java -jar neoforge-26.3.0.89-installer.jar --installServer",
         "ie": "utf-8",
         "oe": "utf-8"
       }
